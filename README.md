@@ -1,5 +1,8 @@
 ## 🚀 About Me
-👋 Hi my name is semshak data analyst by day and aspiring developer by night, I am passionate about uncovering insights and telling stories through data. With a strong background in statistical analysis, data modeling, and data visualization, I specialize in turning complex data sets into actionable insights that can inform business decisions.
+
+👋 Hi my name is semshak the only data analyst by day and aspiring developer by night. 
+
+I am passionate about uncovering insights and telling stories through data. With a strong background in statistical analysis, data modeling, and data visualization, I specialize in turning complex data sets into actionable insights that can inform business decisions.
 
 In my GitHub repositories, you will find a collection of projects that demonstrate my skills and expertise in data analysis. Each project includes a detailed README file that outlines the problem statement, data sources, tools used, and key findings.
 
